@@ -1,0 +1,24 @@
+From 63db62935ae3b7af11c41ad5ec294e2b8a591fb6 Mon Sep 17 00:00:00 2001
+From: Utkirbek Qutfiddinov <utkirbek_qutfiddinov@mail.ru>
+Date: Mon, 18 Dec 2023 17:39:16 +0500
+Subject: [PATCH] 1st file has been modified
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index e53eaa1..a8b00f9 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@
+ 6
+ 7
+ 8
+-9
+-0
++9c
++0c
+-- 
+2.42.0.windows.2
+
